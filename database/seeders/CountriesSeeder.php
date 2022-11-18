@@ -7,9 +7,6 @@
 	
 	class CountriesSeeder extends Seeder
 	{
-		public function run()
-		{
-			
-		}
+
 	}
 ?>
